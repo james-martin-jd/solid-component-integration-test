@@ -1,0 +1,10 @@
+<div class="dashboard">
+  <p>Your webId is {{ webId }}</p>
+  <ul>
+    <li><a [routerLink]="['/card']">Profile</a></li>
+    <li><a (click)="onSignOut()">Signout</a></li>
+  </ul>
+  <div *ngIf="webId">
+    <post-list webid="{{webId}}"></post-list>
+  </div>
+</div>
