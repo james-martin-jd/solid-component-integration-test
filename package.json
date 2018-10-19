@@ -43,7 +43,7 @@
     "rdflib": "^0.17.1",
     "rxjs": "^6.3.3",
     "solid-auth-client": "^2.2.6",
-    "solid-ui-test-components": "0.0.3",
+    "solid-ui-test-components": "0.0.4",
     "stdio": "^0.2.7",
     "text-encoding": "^0.6.4",
     "webcrypto": "^0.1.1",
