@@ -16,8 +16,8 @@
     "window": false
   },
   "engines": {
-    "node": "6.11.1",
-    "npm": "3.10.9"
+    "node": "8.9.0",
+    "npm": "6.4.1"
   },
   "private": true,
   "dependencies": {
